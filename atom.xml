@@ -4,7 +4,7 @@
   <subtitle><![CDATA[邀您见证一个程序员的崛起！]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://kuangmeng.net/"/>
-  <updated>2016-02-01T04:12:35.950Z</updated>
+  <updated>2016-02-01T09:27:32.982Z</updated>
   <id>http://kuangmeng.net/</id>
   
   <author>
@@ -13,6 +13,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[第一篇博文]]></title>
+    <link href="http://kuangmeng.net/2016/02/01/first/"/>
+    <id>http://kuangmeng.net/2016/02/01/first/</id>
+    <published>2016-02-01T09:20:18.000Z</published>
+    <updated>2016-02-01T09:27:32.982Z</updated>
+    <content type="html"><![CDATA[<p>##Hexo篇##<br>   很感谢hexo+github组合，才使得写博客变得如此简单。<br><a id="more"></a></p>
+<p>##自己篇##<br>   当然感谢自己！</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>##Hexo篇##<br>   很感谢hexo+github组合，才使得写博客变得如此简单。<br>]]>
+    
+    </summary>
+    
+      <category term="第一篇，博客，感想" scheme="http://kuangmeng.net/tags/%E7%AC%AC%E4%B8%80%E7%AF%87%EF%BC%8C%E5%8D%9A%E5%AE%A2%EF%BC%8C%E6%84%9F%E6%83%B3/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
