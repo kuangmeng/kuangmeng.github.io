@@ -4,7 +4,7 @@
   <subtitle><![CDATA[邀您见证一个程序员的崛起！]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://kuangmeng.net/"/>
-  <updated>2016-02-01T09:30:44.015Z</updated>
+  <updated>2016-02-01T10:32:43.226Z</updated>
   <id>http://kuangmeng.net/</id>
   
   <author>
@@ -19,13 +19,15 @@
     <link href="http://kuangmeng.net/2016/02/01/first/"/>
     <id>http://kuangmeng.net/2016/02/01/first/</id>
     <published>2016-02-01T09:20:18.000Z</published>
-    <updated>2016-02-01T09:30:44.015Z</updated>
-    <content type="html"><![CDATA[<p>Hexo篇<br>   很感谢hexo+github组合，才使得写博客变得如此简单。<br><a id="more"></a><br>自己篇<br>   当然感谢自己！</p>
+    <updated>2016-02-01T10:32:43.226Z</updated>
+    <content type="html"><![CDATA[<p>Hexo篇<br>   很感谢hexo+github组合，才使得写博客变得如此简单。<br><a id="more"></a><br>自己篇<br>   当然感谢自己！我会继续搞ACM！</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>Hexo篇<br>   很感谢hexo+github组合，才使得写博客变得如此简单。<br>]]>
     
     </summary>
+    
+      <category term="acm" scheme="http://kuangmeng.net/tags/acm/"/>
     
       <category term="博客" scheme="http://kuangmeng.net/tags/%E5%8D%9A%E5%AE%A2/"/>
     
